@@ -5,7 +5,8 @@ Notes AI is a powerful and versatile platform designed to help you effortlessly 
 1. Create a PAT token, with all permissions except delete repo
 2. git clone with PAT into project
 3. npm install axios
-4. navigate to frontend and backend folders and begin work
+4. npm install react-scripts
+5. navigate to frontend and backend folders and begin work
 
 ## Running Instructions
 1. navigate to backend folder and run app.py
