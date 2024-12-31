@@ -1,0 +1,13 @@
+.layout-footer {
+    transition: margin-left $transitionDuration;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding-top: 1rem;
+    //border-top: 1px solid;
+    background-image: url('blue-background.jpg'); /* Set the background image */
+    background-size: cover; /* Ensures the image covers the container */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center; /* Centers the image */
+}
