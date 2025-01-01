@@ -6,16 +6,16 @@ interface AppLayoutProps {
 }
 
 export const metadata: Metadata = {
-    title: 'PrimeReact Sakai',
-    description: 'The ultimate collection of design-agnostic, flexible and accessible React UI Components.',
+    title: 'Notes AI',
+    description:  'Notes AI is a powerful and versatile platform designed to help you effortlessly summarize and take notes on a wide range of content, including lecture videos, PDF documents, and more.',
     robots: { index: false, follow: false },
     viewport: { initialScale: 1, width: 'device-width' },
     openGraph: {
         type: 'website',
-        title: 'PrimeReact SAKAI-REACT',
-        url: 'https://sakai.primereact.org/',
-        description: 'The ultimate collection of design-agnostic, flexible and accessible React UI Components.',
-        images: ['https://www.primefaces.org/static/social/sakai-react.png'],
+        title: 'Notes AI',
+        url: 'to be made',
+        description: 'Notes AI is a powerful and versatile platform designed to help you effortlessly summarize and take notes on a wide range of content, including lecture videos, PDF documents, and more.',
+        images: ['none'],
         ttl: 604800
     },
     icons: {
