@@ -63,6 +63,14 @@
         "chunks": [],
         "async": false
       }
+    },
+    "(app-client)/./app/(full-page)/auth/login/page.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/(full-page)/auth/login/page.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
     }
   },
   "edgeSSRModuleMapping": {},
@@ -170,6 +178,14 @@
         "app/(main)/layout:static/chunks/app/(main)/layout.js"
       ],
       "async": false
+    },
+    "/Users/joshuacao/Documents/notes-ai/frontend/app/(full-page)/auth/login/page.tsx": {
+      "id": "(app-client)/./app/(full-page)/auth/login/page.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(full-page)/auth/login/page:static/chunks/app/(full-page)/auth/login/page.js"
+      ],
+      "async": false
     }
   },
   "entryCSSFiles": {
@@ -177,6 +193,8 @@
       "static/css/app/layout.css"
     ],
     "/Users/joshuacao/Documents/notes-ai/frontend/app/(main)/page": [],
-    "/Users/joshuacao/Documents/notes-ai/frontend/app/(main)/layout": []
+    "/Users/joshuacao/Documents/notes-ai/frontend/app/(main)/layout": [],
+    "/Users/joshuacao/Documents/notes-ai/frontend/app/(full-page)/layout": [],
+    "/Users/joshuacao/Documents/notes-ai/frontend/app/(full-page)/auth/login/page": []
   }
 }
